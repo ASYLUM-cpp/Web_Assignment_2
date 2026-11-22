@@ -1,4 +1,5 @@
 import { Link } from "react-router-dom";
+import { MAX_SEATS, MIN_ORDER } from "../rules/rules.js";
 
 export default function Home() {
   return (
@@ -24,8 +25,8 @@ export default function Home() {
       <section>
         <h2>Quick rules (pls read)</h2>
         <ul>
-          <li>Max 5 seats per course.</li>
-          <li>Min order is PKR 1,500.</li>
+          <li>Max {MAX_SEATS} seats per course.</li>
+          <li>Min order is PKR {MIN_ORDER}.</li>
           <li>Courses with "Licence required" are only for people who actually have a spray licence.</li>
         </ul>
       </section>
