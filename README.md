@@ -4,9 +4,8 @@
 - **Student:** M. Amish
 - **Roll number:** 24I-2099
 - **Section:** CY-5C
-- **GitHub:** <add your public repo link>
-- **Live website:** <add your Vercel link>
-- **Final commit:** <add the commit hash>
+- **GitHub:** https://github.com/ASYLUM-cpp/Web_Assignment_2
+- **Live website:** https://web-assignment-2-delta.vercel.app
 
 ## What is this?
 
